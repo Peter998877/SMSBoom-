@@ -1,24 +1,3 @@
-# SMSBoom - Deprecate
-
-> **Due to judicial reasons, the repository has been suspended!**  
-> **倉庫は司法上の理由で停止された。**-- Japenese  
-> **由于司法原因，此仓库被停用！**-- Simplified Chinese  
-> **由於司法原因，此倉庫被停用！** -- Traditional Chinese
-
-For more details, please check: [HK JUDICIARY](https://www.judiciary.hk/zh/home/index.html)
-
-![HK JUDICIARY](https://www.judiciary.hk/images/logo_big.png)
-
-HK JUDICIARY 2024/3/20
-
-<!--
-![test](img/test2.gif)
-
-## 免责声明
-
-1. 使用此程序请遵守当地的法律法规，禁止滥用、恶意使用，**触犯法律所造成的问题均由使用者承担**。  
-2. 本程序仅供娱乐,源码全部开源,**禁止滥用** 和二次 **禁止用于商业用途**.
-
 ## Repair - TODO
 
 1. 修改文档
